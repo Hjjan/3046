@@ -1,0 +1,18 @@
+Bol Bol Starts Only Fans Account To Raise Funds Via Ginormous Feet
+This article is a part of an exclusive online satirical subscription community called Coil.
+
+‍
+
+After an impressive first game in the NBA Coronavirus Bubble (16 points, 10 boards, 6 blocks) and a random drug test, Bol Bol kept up his stellar play with 15 points on Saturday against the Pelicans. The real story of the last couple of days, however, comes from Bol's personal life, in which he recently created an account on the ever-popular millennial content subscription service, "Only Fans.” His small, two-way contract only guarantees him $50,000 for the next two seasons, and it appears Bol simply needs to make extra money, possibly in retaliation for his sub-par contract. The need for supplemental cash isn't the only kicker here, though; the biggest news is that the account is devoted entirely to his enormous feet.
+
+Using the username @Big$exyfeetbols, the 7'2 center has already garnered an extensive army of followers in the last couple days, by a group who has coined themselves the "Feet Fleet" and the "Toes Hoes.”
+
+"I've made more in three days than the entirety of my rookie contract. This account has truly opened up new doors for me. I’m beginning to think I may have a future in the entertainment industry after basketball," said Bol, who was recently contacted by Foot Locker in a desperate attempt to partner with his newly-famous feet. 
+Bol Bol and Michael Porter Jr. during NBA pre-game versus the New Orleans Pelicans. The game also showed off rookie standout Zion Williamson. 
+From a quick glance, it seems that the majority of Bol’s “fans” are middle-aged men living at home in their mother’s basements. 
+
+“It’s like if Big Foot and the Lochness Monster boned and made a hybrid mutant baby with super sexy feet,” said crazed super-fan Damian Lester. “I even have the premium package that gives me exclusive close-ups of his toe-nails.”
+The Nuggets may need to look into repurposing Bol’s contract, or we may end up seeing the birth of the most legendary foot model the NBA has ever seen. 
+
+‍
+https://www.whatthefussnews.com/posts/bol-bol-starts-only-fans-account-to-raise-funds-via-giant-feet
