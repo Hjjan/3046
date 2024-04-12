@@ -5,7 +5,7 @@
 The project aims to conduct a comprehensive discourse analysis of football broadcasts, focusing on key events such as the kick-off, full-time, passing, and scoring. The rationale behind this project is to understand the language use in sports commentary and gain cultural and social insights from it.
 
 ## Data Collection Process:
-Scripts from various football broadcasts will be collected. This could involve transcribing commentary from YouTube highlights or sourcing scripts from available databases.
+Scripts from various football broadcasts will be collected and will be downloaded from online platform. This could involve transcribing commentary from YouTube highlights or sourcing scripts from available databases.
 
 ## Annotation:
 The scripts will be annotated with timestamps and other relevant information. This could involve marking the time of key events (like goals or fouls), noting the players involved, and other context-specific details.
@@ -29,8 +29,12 @@ example: moses_script1_Suprs vs Wolves
 
 ## file format: 
 [Date and the teams] {timestamp} 'script
+provide the source of video at the end of your files.
 
+example: 
 [5/12 Suprs vs Wolves] {3:15} 'Harry kane with the powerful shot inside the box.'
+source: https://www.youtube.com/watch?v=WpwBvr61yf0
+
 
 ## Annotation method:"
 
