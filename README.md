@@ -12,3 +12,10 @@ YouTube highlights are available for us to script the speech. Download them for 
 
 
 Next, annotate them using the annotation method:"
+
+time stamp
+competetion
+action
+subject
+adj
+adv
