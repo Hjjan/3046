@@ -23,9 +23,9 @@ As the data is being sourced from publicly available broadcasts, there should no
 The results of this project could be used in various ways, such as training AI models to generate sports commentary, studying linguistic patterns in sports commentary, or even developing tools to assist commentators. Future development could involve expanding the analysis to other sports or languages.
 
 ## File naming:
-Please collect scripts of football commentary and add them to this GitHub database with the format **name_script no._the playing teams**
+Please collect scripts of football commentary and add them to this GitHub database with the format **name_monment of the game_script no._the playing teams**
 
-example: moses_script1_Suprs vs Wolves
+example: moses_kick-off_script1_Suprs vs Wolves
 
 ## file format: 
 [Date and the teams] {timestamp} 'script
