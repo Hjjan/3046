@@ -61,3 +61,8 @@ example: moses_kick-off_script1_12-4_Suprs vs Wolves
 `adj` -> pre-head modifier of the action
 
 `adv` -> adverbial clause
+
+##Documentation of thinking and decision process:
+First, we decided to do our research on fake news about sports and celebrities, but it is so hard to find fake news that has not been deleted on the internet. Therefore, we want to focus on something that is easier to find and has many examples.
+
+As football fans, English football is hard to follow as commentators have freedom in word choices and expressions, and there is no clear system or guide for them to commentate the match. We noticed some specific moments during the game and tried to do a discourse analysis of what they said.
