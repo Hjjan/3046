@@ -7,6 +7,7 @@ example: moses_script1
 YouTube highlights are available for us to script the speech. Download them for records, and please mark the timestamp when you are scripting.
 
 format: [Date and the teams] {timestamp} 'script'
+
 [5/12 Suprs vs Wolves] {3:15} 'Harry kane with the powerful shot inside the box.'
 
 
