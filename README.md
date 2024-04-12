@@ -1,4 +1,4 @@
-# This project aims to do a discourse analysis of the Premier League broadcast
+# Discourse analysis of football broadcast
 
 
 ## Project Scope and Rationale:
