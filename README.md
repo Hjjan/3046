@@ -1,8 +1,8 @@
 **This project aims to do a discourse analysis of the Premier League broadcast**
 
-Please collect scripts of football commentary and add them to this GitHub database with the format **name_script no.**
+Please collect scripts of football commentary and add them to this GitHub database with the format **name_script no._the playing teams**
 
-example: moses_script1
+example: moses_script1_Suprs vs Wolves
 
 YouTube highlights are available for us to script the speech. Download them for records, and please mark the timestamp when you are scripting.
 
