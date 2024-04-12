@@ -54,7 +54,7 @@ example: moses_kick-off_script1_12-4_Suprs vs Wolves
 
 `competetion` -> epl/ ucl etc
 
-`action` -> shot/pass/kickoff/fulltime
+`event type` -> shot/pass/kickoff/fulltime
 
 `subject` -> player name
 
