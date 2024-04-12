@@ -40,12 +40,12 @@ source: https://www.youtube.com/watch?v=WpwBvr61yf0
 
 `time stamp` -> time of the action occurred
 
-competetion -> epl/ ucl etc
+`competetion` -> epl/ ucl etc
 
-action -> shot/pass/kickoff/fulltime
+`action` -> shot/pass/kickoff/fulltime
 
-subject -> player name
+`subject` -> player name
 
-adj -> pre-head modifier of the action
+`adj` -> pre-head modifier of the action
 
-adv -> adverbial clause
+`adv` -> adverbial clause
