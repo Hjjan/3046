@@ -25,7 +25,7 @@ The results of this project could be used in various ways, such as training AI m
 ## File naming:
 Please collect scripts of football commentary and add them to this GitHub database with the format **name_monment of the game_script no._the date_the playing teams**
 
-example: moses_kick-off_script1_Suprs vs Wolves
+example: moses_kick-off_script1_12-4_Suprs vs Wolves
 
 ## file format: 
 [Date and the teams] {timestamp} 'script
