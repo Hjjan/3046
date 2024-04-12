@@ -18,7 +18,7 @@ example: moses_kick-off_script1_12-4_Suprs vs Wolves
 All files will be stored in a dedicated GitHub repository for easy access and collaboration.
 
 ## file format: 
-[Date and the teams] {timestamp} 
+`[Date and the teams]` `{timestamp}`
 
 'the content of script'
 
