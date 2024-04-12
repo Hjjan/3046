@@ -11,7 +11,26 @@ Scripts from various football broadcasts will be collected and will be downloade
 The scripts will be annotated with timestamps and other relevant information. This could involve marking the time of key events (like goals or fouls), noting the players involved, and other context-specific details.
 
 ## File Structure and Naming Conventions:
-Files will be named in the format **name_script no.** For example, a file could be named `moses_script1`. All files will be stored in a dedicated GitHub repository for easy access and collaboration.
+Please collect scripts of football commentary and add them to this GitHub database with the format `name_monment of the game_script no._the date_the playing teams`
+
+example: moses_kick-off_script1_12-4_Suprs vs Wolves
+
+All files will be stored in a dedicated GitHub repository for easy access and collaboration.
+
+## file format: 
+[Date and the teams] {timestamp} 
+
+'the content of script'
+
+provide the source of video at the end of your files.
+
+example: 
+
+[5/12 Suprs vs Wolves] {3:15} 
+
+'Harry kane with the powerful shot inside the box.'
+
+source: https://www.youtube.com/watch?v=WpwBvr61yf0
 
 ## Meaning of the Columns in Textual Data:
 The textual data will primarily consist of two columns: `timestamp` and `script`. The `timestamp` column will indicate the time of the event in the match, and the `script` column will contain the commentary corresponding to that timestamp.
@@ -27,17 +46,6 @@ Please collect scripts of football commentary and add them to this GitHub databa
 
 example: moses_kick-off_script1_12-4_Suprs vs Wolves
 
-## file format: 
-[Date and the teams] {timestamp} 'script
-provide the source of video at the end of your files.
-
-example: 
-
-[5/12 Suprs vs Wolves] {3:15} 
-
-'Harry kane with the powerful shot inside the box.'
-
-source: https://www.youtube.com/watch?v=WpwBvr61yf0
 
 
 ## Annotation method:"
