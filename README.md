@@ -14,8 +14,14 @@ YouTube highlights are available for us to script the speech. Download them for 
 Next, annotate them using the annotation method:"
 
 time stamp -> time of the action occurred
+
 competetion -> epl/ ucl etc
+
 action -> shot/pass/kickoff/fulltime
+
 subject -> player name
+
 adj -> pre-head modifier of the action
+
 adv -> adverbial clause
+
