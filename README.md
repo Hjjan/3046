@@ -20,7 +20,7 @@ All files will be stored in a dedicated GitHub repository for easy access and co
 ## file format: 
 `[Date and the teams]` `{timestamp}`
 
-'the content of script'
+`the content of script`
 
 provide the source of video at the end of your files.
 
