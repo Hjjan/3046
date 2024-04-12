@@ -38,7 +38,7 @@ source: https://www.youtube.com/watch?v=WpwBvr61yf0
 
 ## Annotation method:"
 
-time stamp -> time of the action occurred
+`time stamp` -> time of the action occurred
 
 competetion -> epl/ ucl etc
 
