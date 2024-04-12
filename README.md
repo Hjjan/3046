@@ -2,7 +2,7 @@
 
 
 ## Project Scope and Rationale:
-The project aims to conduct a comprehensive discourse analysis of football broadcasts, focusing on key events such as the kick-off, full-time, passing, and scoring. The rationale behind this project is to understand the language use in sports commentary and gain cultural and social insights from it.
+The project aims to conduct a comprehensive discourse analysis of football broadcasts, focusing on key events such as the `kick-off`, `full-time`, `passing`, and `scoring`. The rationale behind this project is to understand the language use in sports commentary and gain cultural and social insights from it.
 
 ## Data Collection Process:
 Scripts from various football broadcasts will be collected and will be downloaded from online platform. This could involve transcribing commentary from YouTube highlights or sourcing scripts from available databases.
