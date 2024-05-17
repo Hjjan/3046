@@ -1,4 +1,4 @@
-# Discourse analysis of football broadcast
+<img width="253" alt="image" src="https://github.com/Hjjan/3046/assets/157329408/3af21061-bd33-4910-904c-53d87acad35d"># Discourse analysis of football broadcast
 
 
 ## Project Scope and Rationale:
@@ -66,3 +66,12 @@ example: moses_kick-off_script1_12-4_Suprs vs Wolves
 ## Data:
 
 https://docs.google.com/spreadsheets/d/1e_M4Q6BSInqeUgnav3C3aGGHV9_c2SgYV2YvQCtU1rU/edit?usp=sharing
+
+
+
+## Contributors:
+
+Hui Jan, s1141868
+Yu Ao Tian Raphael, s1148555
+So Chun Hei Moses, s11485528
+Wong Sze Long, s12345678
