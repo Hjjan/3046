@@ -48,7 +48,7 @@ example: moses_kick-off_script1_12-4_Suprs vs Wolves
 
 
 
-## Annotation method:"
+## Annotation method:
 
 `time stamp` -> time of the action occurred
 
@@ -62,3 +62,7 @@ example: moses_kick-off_script1_12-4_Suprs vs Wolves
 
 `adv` -> adverbial clause
 
+
+## Data:
+
+https://docs.google.com/spreadsheets/d/1e_M4Q6BSInqeUgnav3C3aGGHV9_c2SgYV2YvQCtU1rU/edit?usp=sharing
